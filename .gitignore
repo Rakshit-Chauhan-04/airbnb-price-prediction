@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
+
+# Raw datasets
+data/raw/
+
+# OS files
+.DS_Store
+Thumbs.db
