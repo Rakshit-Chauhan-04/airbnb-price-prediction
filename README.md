@@ -16,7 +16,7 @@ and availability features.
 
 - [x] Data exploration
 - [x] Data cleaning
-- [ ] Feature engineering
+- [x] Feature engineering
 - [ ] Exploratory data analysis
 - [ ] Model training
 - [ ] Model comparison
@@ -43,6 +43,7 @@ airbnb-price-prediction/
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
 │   └── 02_data_cleaning.ipynb
+│   └── 03_feature_engineering.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
